@@ -1,2 +1,3 @@
 # amazonclone
-Front End web development project. For colab.
+Front End web development project.
+Project screen shot.
